@@ -50,8 +50,7 @@ The target variable is y, indicating subscription status as "yes" or "no".
 
 ##### Important Features for Predictive Power:
 
-
- ![Feature Importance](D:\Zaynab\model-prediction-azubi\feature_importance.png)
+![feature_importance](https://github.com/user-attachments/assets/3bfd6b99-3bc2-4429-9477-4b022a289938)
 
 
 - Positive coefficients: indicate features associated with a higher likelihood of subscription.
@@ -74,8 +73,8 @@ The target variable is y, indicating subscription status as "yes" or "no".
 
 - Confusion Matrix
 
- ![Confusion Matrix](D:\Zaynab\model-prediction-azubi\confusion_matrix.png)
-  
+![confusion_matrix](https://github.com/user-attachments/assets/0964509c-e387-4515-b888-11bb6ae87fe1)
+
   __A visualization showing the true vs. predicted classifications._
 
 - True Negatives (top-left): Model correctly said “No, not subscribe”
@@ -101,7 +100,7 @@ The target variable is y, indicating subscription status as "yes" or "no".
 - Recall : 0.54
 - F1 Score: 0.48
 
-![Precision-Recall and ROC Curve](D:\Zaynab\model-prediction-azubi\pr_roc_curve.png)
+![pr_roc_curve](https://github.com/user-attachments/assets/aa419ab1-e668-4cdc-a2e2-dec3cf2bfc80)
 
 _ROC curve shows how well the model distinguishes between classes._
 _This PR curve illustrates the trade-off between precision and recall across different thresholds._
