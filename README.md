@@ -4,9 +4,8 @@
                                              
 ### Project Overview
 
-This project focuses on leveraging operational data to drive strategic business decisions. The primary objective is to develop a predictive model that determines the likelihood of a client subscribing to a term deposit, based on various client and campaign-related features.
-
-The target variable is y, indicating subscription status as "yes" or "no".
+This project focuses on leveraging operational data to drive strategic business decisions for the bank. The primary objective is to develop a predictive model that estimates the likelihood of a client subscribing to a term deposit, based on a range of client attributes and past campaign interactions.
+These combined insights will support the marketing team in designing campaigns tailored to client behaviour and preferences, ultimately improving targeting efforts and increasing term deposit subscriptions.
 
 
 ### Exploratory Data Analysis
