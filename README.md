@@ -7,6 +7,8 @@
 This project focuses on leveraging operational data to drive strategic business decisions for the bank. The primary objective is to develop a predictive model that estimates the likelihood of a client subscribing to a term deposit, based on a range of client attributes and past campaign interactions.
 These combined insights will support the marketing team in designing campaigns tailored to client behaviour and preferences, ultimately improving targeting efforts and increasing term deposit subscriptions.
 
+See full analysis [here](https://github.com/TheDataCode/Client-Term-Deposit-Prediction/blob/main/term-deposit-prediction.ipynb)
+
 
 ### Exploratory Data Analysis
 ##### Imbalanced Target Variable:
